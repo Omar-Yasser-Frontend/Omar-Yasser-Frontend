@@ -1,7 +1,7 @@
 
 <h1>Hi There, I'm Omar Yasser <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a **Front-end Software Engineer**. building responsive and high quality web applications, seek high performance and building responsive and scalable web applications.
+I'm a **MERN Stack web developer**. building responsive, high quality, secure and scalable web applications, seek high performance and building responsive and scalable web applications.
 
 ## Skill Set :muscle:
 
